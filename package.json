@@ -1,6 +1,6 @@
 {
   "name": "callbag-flatten-iter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Callbag operator that flattens iterators",
   "main": "index.js",
   "repository": "https://github.com/aaronshaf/callbag-flatmap.git",
