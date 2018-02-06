@@ -1,0 +1,19 @@
+{
+  "name": "callbag-flatten-iter",
+  "version": "1.0.0",
+  "description": "Callbag operator that flattens iterators",
+  "main": "index.js",
+  "repository": "https://github.com/aaronshaf/callbag-flatmap.git",
+  "author": "Aaron Shafovaloff <aaronshaf@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "callbag-for-each": "^1.0.0",
+    "callbag-from-iter": "^1.0.0",
+    "callbag-pipe": "^1.1.0",
+    "tape": "^4.8.0"
+  },
+  "dependencies": {
+    "callbag-flatten": "^1.0.0",
+    "callbag-map": "^1.0.0"
+  }
+}
