@@ -5,7 +5,7 @@ yarn add callbag-flatten-iter
 ```javascript
 const pipe = require("callbag-pipe");
 const fromIter = require("callbag-from-iter");
-const flattenIter = require("./index");
+const flattenIter = require("callbag-flatten-iter");
 const forEach = require("callbag-for-each");
 
 pipe(
