@@ -1,4 +1,4 @@
-const fromIter = require("callbag-flatten-iter");
+const fromIter = require("callbag-from-iter");
 const flatten = require("callbag-flatten");
 const map = require("callbag-map");
 
